@@ -1,2 +1,2 @@
-![random](https://picsum.photos/200)
+![Random Image](https://loremflickr.com/320/240)
 Random image will show up above this text.
